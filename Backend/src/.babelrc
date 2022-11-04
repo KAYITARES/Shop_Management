@@ -1,0 +1,8 @@
+//haba harimo amacode yo guconvertinga es6 to javascript
+{
+  "presets": ["@babel/preset-env"],
+  "plugins": [
+    ["@babel/transform-runtime"],
+    ["@babel/plugin-proposal-class-properties"]
+  ]
+}
